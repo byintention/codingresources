@@ -1,12 +1,25 @@
 # Coding Resources
 
-Javascript
+## Version Control
 
+Tower - https://www.git-tower.com/mac/
 
-jQuery
+Markdown cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-jPanel Menu
+## Coding in general
 
-Slick Slider
+Freecodecamp - https://www.freecodecamp.org/
+
+Codewars - https://www.codewars.com/
+
+## Javascript
+
+The Complete JavaScript Course: Build a Real-World Project - https://www.udemy.com/the-complete-javascript-course/
+
+## jQuery
+
+jPanel Menu - http://jpanelmenu.com/
+
+Slick Slider - http://kenwheeler.github.io/slick/
 
 
