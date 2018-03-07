@@ -16,10 +16,32 @@ Codewars - https://www.codewars.com/
 
 The Complete JavaScript Course: Build a Real-World Project - https://www.udemy.com/the-complete-javascript-course/
 
+http://youmightnotneedjqueryplugins.com/
+
+Tiny Slider - https://github.com/ganlanyuan/tiny-slider
+
+PhotoSwipe - http://photoswipe.com/
+
 ## jQuery
 
 jPanel Menu - http://jpanelmenu.com/
 
 Slick Slider - http://kenwheeler.github.io/slick/
 
+MatchHeight - http://brm.io/jquery-match-height/
 
+## CSS
+
+CSSTricks Flexbox - 
+
+CSSTricks SVG - 
+
+## SASS
+
+Koala, Mac SASS compiler - http://koala-app.com/
+
+## WordPress
+
+Advanced Custom Fields - https://www.advancedcustomfields.com/
+
+WP SCSS 
