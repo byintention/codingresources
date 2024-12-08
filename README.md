@@ -24,26 +24,23 @@ Tiny Slider - https://github.com/ganlanyuan/tiny-slider
 
 PhotoSwipe - http://photoswipe.com/
 
-## jQuery
-
-jPanel Menu - http://jpanelmenu.com/
-
-Slick Slider - http://kenwheeler.github.io/slick/
-
-MatchHeight - http://brm.io/jquery-match-height/
 
 ## CSS
 
-CSSTricks Flexbox - 
+CSSTricks - https://css-tricks.com/
 
-CSSTricks SVG - 
+Picalilli - https://piccalil.li/
 
 ## SASS
 
 Koala, Mac SASS compiler - http://koala-app.com/
 
+Codekit, Mac SASS/JS compiler/minifier - https://codekitapp.com/
+
+WP SCSS compiles on server when SASS file is changed - https://wordpress.org/plugins/wp-scss/
+
 ## WordPress
 
 Advanced Custom Fields - https://www.advancedcustomfields.com/
 
-WP SCSS 
+
